@@ -1,0 +1,42 @@
+[
+{
+  "bookId" : "1",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:11249514/wh:true/wi:220"
+},
+{
+  "bookId" : "2",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:11487152/wh:true/wi:220"
+},
+{
+  "bookId" : "3",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:11373991/wh:true/wi:220"
+},
+{
+  "bookId" : "4",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:254155/wh:true/wi:220"
+},
+{
+  "bookId" : "5",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:9540768/wh:true/wi:220"
+},
+{
+  "bookId" : "6",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:11295149/wh:true/wi:220"
+},
+{
+  "bookId" : "7",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:11263809/wh:true/wi:220"
+},
+{
+  "bookId" : "8",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:11484450/wh:true/wi:220"
+},
+{
+  "bookId" : "9",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:11484464/wh:true/wi:220"
+},
+{
+  "bookId" : "10",
+  "bookImageUrl" : "https://img.kitapyurdu.com/v1/getImage/fn:11328353/wh:true/wi:220"
+}
+]
