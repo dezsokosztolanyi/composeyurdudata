@@ -188,15 +188,15 @@
     "banner": [
       {
         "bannerId": "1",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11499966/wh:d502f1051"
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11499966/wi:940/wh:d502f1051"
       },
       {
         "bannerId": "2",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481145/wh:ac39f3a4a"
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481145/wi:940/wh:ac39f3a4a"
       },
       {
         "bannerId": "3",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11483717/wh:d772f9b75"
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11483717/wi:940/wh:d772f9b75"
       },
       {
         "bannerId": "4",
