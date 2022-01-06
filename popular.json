@@ -205,6 +205,10 @@
       {
         "bannerId": "5",
         "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481208/wi:940/wh:4c984d640"
+      },
+      {
+        "bannerId": "6",
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11451306/wh:b1401bc43"
       }
     ]
   }
