@@ -185,30 +185,48 @@
       }
     ]
     ,
-    "banner": [
-      {
-        "bannerId": "1",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11499966/wi:940/wh:d502f1051"
-      },
+    "staticBanner": [
       {
         "bannerId": "2",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481145/wi:940/wh:ac39f3a4a"
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11468863/wh:6932f4ce9/wi:1080.75"
       },
       {
         "bannerId": "3",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11483717/wi:940/wh:d772f9b75"
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481408/wh:0501146c2/wi:1080.75"
       },
       {
         "bannerId": "4",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11432012/wi:940/wh:88c7a9ca1"
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11495307/wh:886837e8a/wi:1080.75"
       },
       {
         "bannerId": "5",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481208/wi:940/wh:4c984d640"
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11371687/wh:b01e0657e/wi:1080.75"
       },
       {
         "bannerId": "6",
-        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11451306/wh:b1401bc43"
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11452711/wh:d0ef47a98/wi:1080.75"
+      }
+    ],
+    "banner": [
+      {
+        "bannerId": "2",
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481139/wh:9e02fb291/wi:1080.75"
+      },
+      {
+        "bannerId": "3",
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481206/wh:e278c3c87/wi:1080.75"
+      },
+      {
+        "bannerId": "4",
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11483763/wh:e7c22bff5/wi:1080.75"
+      },
+      {
+        "bannerId": "5",
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11497233/wh:ff3b75826/wi:1080.75"
+      },
+      {
+        "bannerId": "6",
+        "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11460741/wh:8b4f2e847/wi:1080.75"
       }
     ]
   }
