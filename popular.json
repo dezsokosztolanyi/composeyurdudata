@@ -228,6 +228,32 @@
         "bannerId": "6",
         "bannerImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11460741/wh:8b4f2e847/wi:1080.75"
       }
+    ],
+    "campaign": [
+      {
+        "campaignId": "1",
+        "campaignImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11452702/wh:c764a1944/wi:1080.75"
+      },
+      {
+        "campaignId": "2",
+        "campaignImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11481142/wh:1679dd1c9/wi:1080.75"
+      },
+      {
+        "campaignId": "3",
+        "campaignImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11475078/wh:6c3dac989/wi:1080.75"
+      },
+      {
+        "campaignId": "4",
+        "campaignImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11504604/wh:c9ab8da3f/wi:1080.75"
+      },
+      {
+        "campaignId": "5",
+        "campaignImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11450914/wh:88e8ba553/wi:1080.75"
+      },
+      {
+        "campaignId": "6",
+        "campaignImageUrl": "https://img.kitapyurdu.com/v1/getImage/fn:11454715/wh:d91169fd9/wi:1080.75"
+      }
     ]
   }
 ]
